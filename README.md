@@ -155,7 +155,7 @@ Risk of Overrun: With little room for flexibility, projects can run into trouble
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-ChatGPT said:
+
 Types of Projects Where Agile is More Beneficial Than Waterfall:
 Projects with Evolving or Uncertain Requirements
 
